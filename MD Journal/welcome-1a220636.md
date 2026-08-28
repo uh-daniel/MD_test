@@ -5,8 +5,8 @@ component: VJOURNAL
 when: day
 dayKey: 2026-08-28
 someday: false
-sequence: 0
-lastModified: "2026-08-28T11:52:00.000Z"
+sequence: 1
+lastModified: "2026-08-28T13:15:31.610Z"
 categories: []
 relatedTo: []
 githubPath: MD Journal/welcome-1a220636.md
@@ -16,7 +16,7 @@ obsidianPath: journals/welcome-1a220636.md
 
 # ICS-native journal
 Body is **markdown source** stored in iCalendar `DESCRIPTION` — never HTML.
-- [ ] Try a checklist
+- [x] Try a checklist
 - [ ] Press Ctrl+K for commands
 - [ ] Type `/todo` in the editor
 > \[!NOTE\]
